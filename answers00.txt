@@ -1,0 +1,7 @@
+1.5
+
+1. ans = 11 and 11.0
+2. ans = 7625597484987
+3. ans = 334206837441656786944L
+4. The average time per meter is 5.69620253164557, rounding off to 5.7minutes/km
+5. The shortest distance between me and my friend is 6.530310637661003miles, rounding off to 6.5miles. 
